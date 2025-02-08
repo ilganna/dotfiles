@@ -1,0 +1,7 @@
+font_family MesloLGMNerdFont
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+copy_on_select yes
+mouse_map right press grabbed,ungrabbed no-op
+mouse_map right release grabbed,ungrabbed paste_from_clipboard
